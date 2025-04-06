@@ -1,4 +1,4 @@
 # ByteShift
-THIS is my First Git Repository.
+THIS is my first Git Repository.
 <br>
 Author- Aditya
